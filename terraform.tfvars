@@ -1,0 +1,7 @@
+resource_group_name = "rg-terraform-demo3"
+location            = "centralus"
+project_name        = "demo3"
+vm_size             = "Standard_D2s_v3"
+admin_username      = "azureuser"
+ssh_public_key_path = "C:/Users/yella/.ssh/id_rsa.pub"
+my_ip_address       = "106.222.229.212/32"
